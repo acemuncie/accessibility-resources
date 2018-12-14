@@ -14,6 +14,7 @@
   * [Ebay accessibility patterns](https://ebay.gitbooks.io/mindpatterns/content/)
   * [BBC accessibility guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/)
   * [Vox Media Accessibility Checklist](http://accessibility.voxmedia.com/)
+  * [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
   
 ## Surveys
 
@@ -25,13 +26,14 @@
   * [24 Accessibility](https://www.24a11y.com/) - series of articles on digital accessibility
   * [Leonie Watson](https://tink.uk/) - leading accessibility engineer, co-chair of W3C Web Platform Working Group [@LeonieWatson](https://twitter.com/LeonieWatson) 
   * [Scott O'Hara](https://www.scottohara.me/all-writings/) - UX accessibility at Paciello Group [@scottohara](https://twitter.com/scottohara)
-  * [Alastair Campbell](https://alastairc.ac/) - director of accessibility at nomensa, co-chair of WCAG Working Group [@alastc](https://twitter.com/alastc)
+  * [Alastair Campbell](https://alastairc.ac/blog/) - director of accessibility at nomensa, co-chair of WCAG Working Group [@alastc](https://twitter.com/alastc)
   * [Inclusive Components](https://inclusive-components.design/) - pattern library of accessible web interfaces
   * [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) - free course on making web applications accessible
 
 ### Helpful Topical Reads
 
   * [5 Ways To Make Your UI More Accessible](https://uxplanet.org/5-easy-ways-to-make-your-ui-more-accessible-34a10522ae99)
+  * [What Is Accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 
 ### Videos
 
