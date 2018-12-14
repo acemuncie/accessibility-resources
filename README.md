@@ -20,6 +20,6 @@
   * [Leonie Watson](https://tink.uk/)
   * [Scott O'Hara](https://www.scottohara.me/all-writings/)
   * [Alastair Campbell](https://alastairc.ac/)
-  * [Heydon Pickering](https://inclusive-components.design/)
+  * [Inclusive Components](https://inclusive-components.design/) - pattern library of accessible web interfaces
   * [A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) - series of videos on the fundamentals of building accessible apps by Rob Dodson, developer advocate at Google
-  * [Web Accessiblity by Google](https://www.udacity.com/course/web-accessibility--ud891) - free course on making web applications accessible
+  * [Web Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) - free course on making web applications accessible
