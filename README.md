@@ -1,28 +1,25 @@
 # Accessibility Resources
 
-## Standards
+## Standards  
 
-  * [W3C WAI (Web Accessibility Initiative)](https://www.w3.org/WAI/)
-  * WCAG (Web Content Accessibility Guidelines)
-    * https://www.w3.org/WAI/standards-guidelines/wcag/
-    * https://www.w3.org/TR/WCAG20/
-  * WAI-ARIA (WAI Accessible Rich Internet Applications)
-    * https://www.w3.org/WAI/standards-guidelines/aria/
-    * https://www.w3.org/TR/wai-aria/
-    * https://w3c.github.io/aria-practices/
-
+  * [W3C WAI (Web Accessibility Initiative)](https://www.w3.org/WAI/) - international standard for Web accessibility
+  * [WCAG (Web Content Accessibility Guidelines)](https://www.w3.org/TR/WCAG20/) - guidelines to make web content more accessible
+  * [WAI-ARIA (WAI Accessible Rich Internet Applications)](https://www.w3.org/TR/wai-aria/) - provides functionality to assistive technology
+    * [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices-1.1/)
+   
 ## Organizations
 
-  * https://webaim.org/
-  * https://developer.paciellogroup.com/blog/
+  * [WebAIM](https://webaim.org/)
+  * [Paciello Group](https://developer.paciellogroup.com/resources/)
   * [Ebay accessibility patterns](https://ebay.gitbooks.io/mindpatterns/content/)
   * [BBC accessibility guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/)
 
 ## Blogs, etc.
 
-  * [24 Accessibility](https://www.24a11y.com/)
-  * [A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+  * [24 Accessibility](https://www.24a11y.com/) - series of articles on digital accessibility
+  * [Leonie Watson](https://tink.uk/)
   * [Scott O'Hara](https://www.scottohara.me/all-writings/)
   * [Alastair Campbell](https://alastairc.ac/)
-  * [Leonie Watson](https://twitter.com/LeonieWatson)
   * [Heydon Pickering](https://inclusive-components.design/)
+  * [A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) - series of videos on the fundamentals of building accessible apps by Rob Dodson, developer advocate at Google
+  * [Web Accessiblity by Google](https://www.udacity.com/course/web-accessibility--ud891) - free course on making web applications accessible
