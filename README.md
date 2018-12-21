@@ -1,12 +1,12 @@
 # Accessibility Resources
 
-## Standards  
+## Standards
 
   * [W3C WAI (Web Accessibility Initiative)](https://www.w3.org/WAI/) - international standard for Web accessibility
   * [WCAG (Web Content Accessibility Guidelines)](https://www.w3.org/TR/WCAG20/) - guidelines to make web content more accessible
   * [WAI-ARIA (WAI Accessible Rich Internet Applications)](https://www.w3.org/TR/wai-aria/) - provides functionality to assistive technology
     * [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices-1.1/)
-   
+
 ## Organizations
 
   * [WebAIM](https://webaim.org/)
