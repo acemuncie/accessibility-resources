@@ -5,6 +5,7 @@
   * [W3C WAI (Web Accessibility Initiative)](https://www.w3.org/WAI/) - international standard for Web accessibility
   * [WCAG 2.1 (Web Content Accessibility Guidelines)](https://www.w3.org/TR/WCAG21/) - guidelines to make web content more accessible
   * [WAI-ARIA (WAI Accessible Rich Internet Applications)](https://www.w3.org/TR/wai-aria/) - provides functionality to assistive technology
+    * [W3C Using ARIA](https://www.w3.org/TR/using-aria/) - understand how to use aria in HTML
     * [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices-1.1/)
 
 ## Organizations
