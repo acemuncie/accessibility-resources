@@ -21,6 +21,30 @@
 
   * [WEBAIM Surveys](https://webaim.org/projects/)
     * [2017 Screen Reader survey](https://webaim.org/projects/screenreadersurvey7/)
+    
+## Color and Contrast
+
+  * [Contrast and Color Accessibility](https://webaim.org/articles/contrast/) - understanding WCAG 2 contrast and color requirements (WebAIM)
+  * [Techniques for WCAG 2.1 - G183](https://www.w3.org/WAI/WCAG21/Techniques/general/G183) - Using a contrast ratio of 3:1 with surrounding text and providing additional visual cues on focus for links or controls where color alone is used to identify them
+  * [Techniques for WCAG 2.1 - G18](https://www.w3.org/WAI/WCAG21/Techniques/general/G18) - Ensuring that a contrast ratio of at least 4.5:1 exists between text (and images of text) and background behind the text 
+  * [Techniques for WCAG 2.1 - G17](https://www.w3.org/WAI/WCAG21/Techniques/general/G17) - Ensuring that a contrast ratio of at least 7:1 exists between text (and images of text) and background behind the text 
+
+### Desktop Tools 
+
+  * [The Paciello Group Colour Contrast Analyzer](https://developer.paciellogroup.com/resources/contrastanalyser/)
+  * [Sim Daltonism Color Blindness Simulator](https://michelf.ca/projects/sim-daltonism/)
+  
+### Web Tools
+
+  * [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/) 
+  * [WebAIM Link Contrast Checker](https://webaim.org/resources/linkcontrastchecker/)
+  * [WebAIM Web Accessibility Evaluation Tool](http://wave.webaim.org/)
+  
+### Browser Extensions
+
+  * [Axe Developer Tools for Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/), [Axe Developer Tools for Chrome](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US)
+  * [Color Contrast Analyzer for Chrome](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en)
+  * [NoCoffee Vision Simulator for FireFox](https://addons.mozilla.org/en-US/firefox/addon/nocoffee/), [NoCoffee Vision Simulator for Chrome](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl/)
 
 ## Other Resources
 
